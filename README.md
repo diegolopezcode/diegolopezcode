@@ -68,9 +68,9 @@
 
 ## Skills
 
-* Software Architecture
-* Unit and integration testing
-* Project management
+- 🏛️ Software Architecture
+- 🧪 Unit and Integration Testing
+- 📊 Project Management
 
 
 ## Connect with me  
