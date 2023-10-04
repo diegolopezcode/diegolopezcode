@@ -87,9 +87,5 @@
 </a>  
 </div>  
 
-## Visitas
-  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo">
-    <img alt="Si la etiqueta no se ve, dale F5 actualizar la página" title="Visitas Perfil GitHub" src="https://contador-visitas-github.vercel.app/"/></a>
-
 
 
